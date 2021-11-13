@@ -1,0 +1,11 @@
+pandas
+seaborn
+streamlit
+scikit-learn
+matplotlib
+datetime
+pathlib
+plotly.express
+plotly
+chart-studio
+chart-studio.plotly
